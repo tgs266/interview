@@ -29,6 +29,10 @@ These are not strictly required, however they are nice to have
 
 Have a little fun with it. If you think you can extend it even further, feel free to go ahead and do so. Developers sometimes need to thrive in ambiguity, and be able to deliver when the specifications aren't perfect. So while a requirement may give a high level overview of what to do, the specifics of implementation are up to you.
 
+## To get started
+
+Create a fork of this repository, and get to work!
+
 ## Creact react app readme 
 
 ### Available Scripts
